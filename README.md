@@ -1,10 +1,12 @@
 # Analysis-of-Students-Studying-Abroad
 
 **Overview:**
+
 The data is scraped from Wikipedia using python(Beautiful Soup library) and transformed into a structural format. Later, data is cleaneds using Microsoft excel to prepare data for
 analysis. The report provides data on the numbers of foreign students in various destination countries for the years 2021 and 2022. It includes information on the total number of foreign students, the percentage change from the previous year, and the top sending countries for each destination. The countries listed include the United States, United Kingdom, Canada, France, Australia, Russia, Germany, China, Japan, and Italy
 
 **Agenda:**
+
 **Comparison of Foreign Student Numbers:** The analysis compares the numbers of foreign students in 2021 and 2022 for each destination country to analyse trends and changes. 
 
 **Percentage Change Analysis:** An analysis of the percentage change in foreign student numbers between 2021 and 2022 is conducted to identify significant growth or decline in
